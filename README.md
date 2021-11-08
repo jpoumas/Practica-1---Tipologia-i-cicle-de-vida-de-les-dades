@@ -2,6 +2,6 @@
 
 Xavier Badia Mulero - Josep Pou Mas
 
-src/scraper.py: Conté la implementació del codi amb el que accedim a la pàgina web i amb el que generem el dataset amb les dades.
+src/scraper.py: Conté la implementació del codi amb el que accedim a la pàgina web per obtenir el dataset amb les dades.
 
 10.5281/zenodo.5651980
