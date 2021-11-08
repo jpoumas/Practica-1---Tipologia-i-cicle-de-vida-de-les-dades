@@ -1,6 +1,6 @@
 # Pràctica1: Web scraping
 
-#Equip format per
+## Equip format per
 Xavier Badia Mulero - Josep Pou Mas
 
 src/scraper.py: Conté la implementació del codi amb el que accedim a la pàgina web https://espndeportes.espn.com/futbol/equipos/_/liga/ESP.1/primera-divisi%C3%B3nde-
